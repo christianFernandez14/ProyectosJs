@@ -1,0 +1,1 @@
+En este directorio encontraras todo tipo de ejecicios practicos para inciarte en el mundo de la programación con JavaScript 

@@ -1,0 +1,1 @@
+En este directorio encontraras todo tipo de ejecicios practicos para tu preparación en la consolidción como programdor con JavaScript
